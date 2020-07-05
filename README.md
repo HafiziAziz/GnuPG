@@ -14,4 +14,4 @@
 ```
 yum install php56-php-pecl-gnupg -y
 ```
-+ 
++ Cheat sheet : http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
