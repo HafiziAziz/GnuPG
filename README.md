@@ -15,3 +15,9 @@
 yum install php56-php-pecl-gnupg -y
 ```
 + Cheat sheet : http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
+
+## JFYI
++ If GnuPG key been created not in default path. Kindly, declare the path in your code.
+```
+putenv("GNUPGHOME=/etc/pki/tls/certs/");
+```
